@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "7-Segment Neural Predictor"      # Project title
-  author:       "Abdul Hannan"      # Your name
+  author:       "Abdul Hannan A."      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A small neural network that predicts digits 0-9 from 7-segment display patterns."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
