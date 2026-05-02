@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses a two-layer neural network with 4 hidden neurons to decode 7-segment patterns.
 
 ## How to test
 
-Explain how to use your project
+Feed 7-segment codes into ui_in and read the 4-bit prediction on uo_out.
 
 ## External hardware
 
